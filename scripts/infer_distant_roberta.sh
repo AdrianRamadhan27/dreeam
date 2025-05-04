@@ -12,5 +12,5 @@ python run.py --data_dir dataset/docred \
 --test_batch_size 4 \
 --num_labels 4 \
 --evi_thresh 0.2 \
---num_class 97 \
+--num_class 21 \
 --save_attn \

@@ -26,4 +26,4 @@ python run.py --do_train \
 --warmup_ratio 0.1 \
 --num_train_epochs 10.0 \
 --seed ${SEED} \
---num_class 97
+--num_class 21

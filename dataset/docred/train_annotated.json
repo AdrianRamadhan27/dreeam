@@ -1,0 +1,4343 @@
+[
+  {
+    "title": "Alue_Batee,_Arongan_Lambalek,_Aceh_Barat",
+    "sents": [
+      [
+        "Alue",
+        "Batee",
+        "merupakan",
+        "salah",
+        "satu",
+        "gampong",
+        "yang",
+        "ada",
+        "di",
+        "kecamatan",
+        "Arongan",
+        "Lambalek",
+        ",",
+        "Kabupaten",
+        "Aceh",
+        "Barat",
+        ",",
+        "provinsi",
+        "Aceh",
+        ",",
+        "Indonesia",
+        "."
+      ],
+      [
+        "Penduduk",
+        "Penduduk",
+        "gampong",
+        "Alue",
+        "Batee",
+        "sampai",
+        "dengan",
+        "tahun",
+        "2015",
+        "berjumlah",
+        "204",
+        "orang",
+        "terdiri",
+        "dari",
+        "107",
+        "Laki-laki",
+        "dan",
+        "97",
+        "Perempuan",
+        "dengan",
+        "sex",
+        "ratio",
+        "110,31",
+        "."
+      ],
+      [
+        "Referensi",
+        "Pranala",
+        "luar",
+        "(",
+        "Indonesia",
+        ")",
+        "BPS",
+        "Kabupaten",
+        "Aceh",
+        "Barat",
+        "(",
+        "Indonesia",
+        ")",
+        "Situs",
+        "Resmi",
+        "Kabupaten",
+        "Aceh",
+        "Barat",
+        "(",
+        "Indonesia",
+        ")",
+        "Situs",
+        "Resmi",
+        "Kecamatan",
+        "Arongan",
+        "Lambalek"
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Alue Batee",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "GPE",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        },
+        {
+          "name": "Alue Batee",
+          "pos": [
+            3,
+            5
+          ],
+          "type": "GPE",
+          "global_pos": [
+            25,
+            27
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "kecamatan Arongan Lambalek",
+          "pos": [
+            9,
+            12
+          ],
+          "type": "GPE",
+          "global_pos": [
+            9,
+            12
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Kabupaten Aceh Barat",
+          "pos": [
+            13,
+            16
+          ],
+          "type": "GPE",
+          "global_pos": [
+            13,
+            16
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "provinsi Aceh",
+          "pos": [
+            17,
+            19
+          ],
+          "type": "GPE",
+          "global_pos": [
+            17,
+            19
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Indonesia",
+          "pos": [
+            20,
+            21
+          ],
+          "type": "GPE",
+          "global_pos": [
+            20,
+            21
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "2015",
+          "pos": [
+            8,
+            9
+          ],
+          "type": "DATE",
+          "global_pos": [
+            30,
+            31
+          ],
+          "sent_id": 1
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P17",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 1,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 2,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P17",
+        "h": 3,
+        "t": 4,
+        "evidence": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kabupaten_Wuqi",
+    "sents": [
+      [
+        "Kabupaten",
+        "Wuqi",
+        "(",
+        "Hanzi",
+        "sederhana",
+        ":",
+        "吴起县",
+        ";",
+        "Hanzi",
+        "tradisional",
+        ":",
+        "吳起縣",
+        ";",
+        "Pinyin",
+        ":",
+        "Wúqǐ",
+        "Xiàn",
+        ")",
+        "adalah",
+        "sebuah",
+        "kabupaten",
+        "di",
+        "bawah",
+        "yurisdiksi",
+        "Kota",
+        "Yan'an",
+        ",",
+        "barat",
+        "laut",
+        "Provinsi",
+        "Shaanxi",
+        ",",
+        "Tiongkok",
+        ",",
+        "yang",
+        "berbatasan",
+        "dengan",
+        "provinsi",
+        "Gansu",
+        "di",
+        "barat",
+        "daya",
+        "."
+      ],
+      [
+        "Kabupaten",
+        "tersebut",
+        "memiliki",
+        "luas",
+        "3,788.5",
+        "kilometer",
+        "persegi",
+        "dan",
+        "populasi",
+        "145.600",
+        "pada",
+        "2012",
+        "."
+      ],
+      [
+        "Referensi",
+        "Templat",
+        ":",
+        "Shaanxi-geo-stub"
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Kabupaten Wuqi",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "GPE",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Kota Yan'an",
+          "pos": [
+            24,
+            26
+          ],
+          "type": "GPE",
+          "global_pos": [
+            24,
+            26
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Provinsi Shaanxi",
+          "pos": [
+            29,
+            31
+          ],
+          "type": "GPE",
+          "global_pos": [
+            29,
+            31
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Tiongkok",
+          "pos": [
+            32,
+            33
+          ],
+          "type": "GPE",
+          "global_pos": [
+            32,
+            33
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "provinsi Gansu",
+          "pos": [
+            37,
+            39
+          ],
+          "type": "GPE",
+          "global_pos": [
+            37,
+            39
+          ],
+          "sent_id": 0
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P17",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 1,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P17",
+        "h": 2,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Teluk_Kabung_Tengah,_Bungus_Teluk_Kabung,_Padang",
+    "sents": [
+      [
+        "Teluk",
+        "Kabung",
+        "Tengah",
+        "adalah",
+        "salah",
+        "satu",
+        "kelurahan",
+        "di",
+        "kecamatan",
+        "Bungus",
+        "Teluk",
+        "Kabung",
+        ",",
+        "Padang",
+        ",",
+        "Sumatera",
+        "Barat",
+        ",",
+        "Indonesia",
+        "."
+      ],
+      [
+        "Pranala",
+        "luar",
+        "(",
+        "Indonesia",
+        ")",
+        "Keputusan",
+        "Menteri",
+        "Dalam",
+        "Negeri",
+        "Nomor",
+        "050-145",
+        "Tahun",
+        "2022",
+        "tentang",
+        "Pemberian",
+        "dan",
+        "Pemutakhiran",
+        "Kode",
+        ",",
+        "Data",
+        "Wilayah",
+        "Administrasi",
+        "Pemerintahan",
+        ",",
+        "dan",
+        "Pulau",
+        "tahun",
+        "2021",
+        "(",
+        "Indonesia",
+        ")",
+        "Peraturan",
+        "Menteri",
+        "Dalam",
+        "Negeri",
+        "Nomor",
+        "72",
+        "Tahun",
+        "2019",
+        "tentang",
+        "Perubahan",
+        "atas",
+        "Peraturan",
+        "Menteri",
+        "Dalam",
+        "Negeri",
+        "Nomor",
+        "137",
+        "Tahun",
+        "2017",
+        "tentang",
+        "Kode",
+        "dan",
+        "Data",
+        "Wilayah",
+        "Administrasi",
+        "Pemerintahan",
+        "(",
+        "Indonesia",
+        ")",
+        "Peraturan",
+        "Menteri",
+        "Dalam",
+        "Negeri",
+        "Nomor",
+        "137",
+        "Tahun",
+        "2017",
+        "tentang",
+        "Kode",
+        "dan",
+        "Data",
+        "Wilayah",
+        "Administrasi",
+        "Pemerintahan"
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Teluk Kabung Tengah",
+          "pos": [
+            0,
+            3
+          ],
+          "type": "GPE",
+          "global_pos": [
+            0,
+            3
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "kecamatan Bungus Teluk Kabung",
+          "pos": [
+            8,
+            12
+          ],
+          "type": "GPE",
+          "global_pos": [
+            8,
+            12
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Padang",
+          "pos": [
+            13,
+            14
+          ],
+          "type": "GPE",
+          "global_pos": [
+            13,
+            14
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Sumatera Barat",
+          "pos": [
+            15,
+            17
+          ],
+          "type": "GPE",
+          "global_pos": [
+            15,
+            17
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Indonesia",
+          "pos": [
+            18,
+            19
+          ],
+          "type": "GPE",
+          "global_pos": [
+            18,
+            19
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Keputusan Menteri Dalam Negeri Nomor 050-145 Tahun 2022",
+          "pos": [
+            5,
+            13
+          ],
+          "type": "LAW",
+          "global_pos": [
+            25,
+            33
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Peraturan Menteri Dalam Negeri Nomor 72 Tahun 2019",
+          "pos": [
+            31,
+            39
+          ],
+          "type": "LAW",
+          "global_pos": [
+            51,
+            59
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Peraturan Menteri Dalam Negeri Nomor 137 Tahun 2017",
+          "pos": [
+            42,
+            50
+          ],
+          "type": "LAW",
+          "global_pos": [
+            62,
+            70
+          ],
+          "sent_id": 1
+        },
+        {
+          "name": "Peraturan Menteri Dalam Negeri Nomor 137 Tahun 2017",
+          "pos": [
+            60,
+            68
+          ],
+          "type": "LAW",
+          "global_pos": [
+            80,
+            88
+          ],
+          "sent_id": 1
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P17",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 1,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 2,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P17",
+        "h": 3,
+        "t": 4,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P144",
+        "h": 0,
+        "t": 5,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P144",
+        "h": 0,
+        "t": 6,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P144",
+        "h": 0,
+        "t": 7,
+        "evidence": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Matt_McHugh",
+    "sents": [
+      [
+        "Matthew",
+        "O.",
+        "McHugh",
+        "(",
+        "22",
+        "Januari",
+        "1894",
+        "–",
+        "22",
+        "Februari",
+        "1971",
+        ")",
+        "adalah",
+        "seorang",
+        "pemeran",
+        "film",
+        "Amerika",
+        "Serikat",
+        "."
+      ],
+      [
+        "Ia",
+        "tampil",
+        "dalam",
+        "lebih",
+        "dari",
+        "200",
+        "film",
+        "antara",
+        "1931",
+        "dan",
+        "1955",
+        "."
+      ],
+      [
+        "Sebagian",
+        "filmografi",
+        "Referensi",
+        "Pranala",
+        "luar",
+        "Matt",
+        "McHugh",
+        "di",
+        "Internet",
+        "Broadway",
+        "Database",
+        "Matt",
+        "McHugh",
+        "di",
+        "IMDb",
+        "(",
+        "dalam",
+        "bahasa",
+        "Inggris",
+        ")",
+        "(",
+        "Inggris",
+        ")",
+        "Matt",
+        "McHugh",
+        "di",
+        "TCM",
+        "Movie",
+        "Database",
+        "(",
+        "Inggris",
+        ")",
+        "Matt",
+        "McHugh",
+        "di",
+        "AllMovie"
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Matthew O. McHugh",
+          "pos": [
+            0,
+            3
+          ],
+          "type": "PER",
+          "global_pos": [
+            0,
+            3
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "22 Januari 1894",
+          "pos": [
+            4,
+            7
+          ],
+          "type": "DATE",
+          "global_pos": [
+            4,
+            7
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "22 Februari 1971",
+          "pos": [
+            8,
+            11
+          ],
+          "type": "DATE",
+          "global_pos": [
+            8,
+            11
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "pemeran film",
+          "pos": [
+            14,
+            16
+          ],
+          "type": "WORK",
+          "global_pos": [
+            14,
+            16
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Amerika Serikat",
+          "pos": [
+            16,
+            18
+          ],
+          "type": "NORP",
+          "global_pos": [
+            16,
+            18
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "1931",
+          "pos": [
+            8,
+            9
+          ],
+          "type": "DATE",
+          "global_pos": [
+            27,
+            28
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "1955",
+          "pos": [
+            10,
+            11
+          ],
+          "type": "DATE",
+          "global_pos": [
+            29,
+            30
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Matt McHugh",
+          "pos": [
+            5,
+            7
+          ],
+          "type": "PER",
+          "global_pos": [
+            36,
+            38
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Internet Broadway Database",
+          "pos": [
+            8,
+            11
+          ],
+          "type": "ORG",
+          "global_pos": [
+            39,
+            42
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "IMDb",
+          "pos": [
+            14,
+            15
+          ],
+          "type": "ORG",
+          "global_pos": [
+            45,
+            46
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "TCM Movie Database",
+          "pos": [
+            26,
+            29
+          ],
+          "type": "ORG",
+          "global_pos": [
+            57,
+            60
+          ],
+          "sent_id": 2
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P571",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P576",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P27",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P138",
+        "h": 7,
+        "t": 0,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 8,
+        "evidence": [
+          0,
+          2
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 9,
+        "evidence": [
+          0,
+          2
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 10,
+        "evidence": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kutyski",
+    "sents": [
+      [
+        "Kutyski",
+        "[",
+        "kuˈtɨski",
+        "]",
+        "[",
+        "kuˈtɨski",
+        "]",
+        "adalah",
+        "sebuah",
+        "desa",
+        "di",
+        "distrik",
+        "administratif",
+        "Gmina",
+        "Kosów",
+        "Lacki",
+        ",",
+        "sekitar",
+        "Sokołów",
+        "County",
+        ",",
+        "Provinsi",
+        "mazowsze",
+        ",",
+        "di",
+        "timur-tengah",
+        "Polandia",
+        "."
+      ],
+      [
+        "kota",
+        "Ini",
+        "terletak",
+        "sekitar",
+        "8",
+        "kilometer",
+        "(",
+        "5",
+        "mi",
+        ")",
+        "selatan",
+        "dari",
+        "Kosów",
+        "Lacki",
+        ",",
+        "17",
+        "km",
+        "(",
+        "11",
+        "mi",
+        ")",
+        "utara-barat",
+        "dari",
+        "Sokołów",
+        "Podlaski",
+        ",",
+        "dan",
+        "85",
+        "km",
+        "(",
+        "53",
+        "mi",
+        ")",
+        "timur",
+        "laut",
+        "dari",
+        "Warsawa",
+        "."
+      ],
+      [
+        "Referensi",
+        "Templat",
+        ":",
+        "Gmina",
+        "Kosów",
+        "Lacki",
+        "Templat",
+        ":",
+        "Sokołów-geo-stub"
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Kutyski",
+          "pos": [
+            0,
+            1
+          ],
+          "type": "GPE",
+          "global_pos": [
+            0,
+            1
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Gmina Kosów Lacki",
+          "pos": [
+            13,
+            16
+          ],
+          "type": "GPE",
+          "global_pos": [
+            13,
+            16
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Sokołów County",
+          "pos": [
+            18,
+            20
+          ],
+          "type": "GPE",
+          "global_pos": [
+            18,
+            20
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Provinsi mazowsze",
+          "pos": [
+            21,
+            23
+          ],
+          "type": "GPE",
+          "global_pos": [
+            21,
+            23
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Polandia",
+          "pos": [
+            26,
+            27
+          ],
+          "type": "GPE",
+          "global_pos": [
+            26,
+            27
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Kosów Lacki",
+          "pos": [
+            12,
+            14
+          ],
+          "type": "GPE",
+          "global_pos": [
+            40,
+            42
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Sokołów Podlaski",
+          "pos": [
+            23,
+            25
+          ],
+          "type": "GPE",
+          "global_pos": [
+            51,
+            53
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Warsawa",
+          "pos": [
+            36,
+            37
+          ],
+          "type": "GPE",
+          "global_pos": [
+            64,
+            65
+          ],
+          "sent_id": 1
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P17",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Frol_Kozlov",
+    "sents": [
+      [
+        "Frol",
+        "Romanovich",
+        "Kozlov",
+        "(",
+        "bahasa",
+        "Rusia",
+        ":",
+        "Фрол",
+        "Романович",
+        "Козлов",
+        ";",
+        "18",
+        "Agustus",
+        "[",
+        "K.J",
+        "."
+      ],
+      [
+        ":",
+        "5",
+        "Agustus",
+        "]",
+        "1908",
+        "–",
+        "30",
+        "Januari",
+        "1965",
+        ")",
+        "adalah",
+        "seorang",
+        "politikus",
+        "Uni",
+        "Soviet",
+        "dan",
+        "Pahlawan",
+        "Buruh",
+        "Sosialis",
+        "(",
+        "1961",
+        ")",
+        "."
+      ],
+      [
+        "Biografi",
+        "Kozlov",
+        "lahir",
+        "di",
+        "desa",
+        "Loshchinino",
+        "(",
+        "bahasa",
+        "Rusia",
+        ":",
+        "Лощинино",
+        ")",
+        ",",
+        "Provinsi",
+        "Ryazan",
+        "."
+      ],
+      [
+        "Antara",
+        "1953",
+        "dan",
+        "1957",
+        ",",
+        "Kozlov",
+        "menjadi",
+        "sekretaris",
+        "tingkat",
+        "satu",
+        "dari",
+        "Komite",
+        "Partai",
+        "Komunis",
+        "Uni",
+        "Soviet",
+        "di",
+        "Oblast",
+        "Leningrad",
+        "."
+      ],
+      [
+        "Referensi",
+        "Pranala",
+        "luar",
+        "Biografi",
+        "Frol",
+        "Kozlov",
+        "Diarsipkan",
+        "2020-03-21",
+        "di",
+        "Wayback",
+        "Machine",
+        "."
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Frol Romanovich Kozlov",
+          "pos": [
+            0,
+            3
+          ],
+          "type": "PER",
+          "global_pos": [
+            0,
+            3
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "30 Januari 1965",
+          "pos": [
+            6,
+            9
+          ],
+          "type": "DATE",
+          "global_pos": [
+            22,
+            25
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "desa Loshchinino",
+          "pos": [
+            4,
+            6
+          ],
+          "type": "LOC",
+          "global_pos": [
+            43,
+            45
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Komite Partai Komunis Uni Soviet",
+          "pos": [
+            11,
+            16
+          ],
+          "type": "ORG",
+          "global_pos": [
+            66,
+            71
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "sekretaris tingkat satu",
+          "pos": [
+            7,
+            10
+          ],
+          "type": "WORK",
+          "global_pos": [
+            62,
+            65
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "Rusia",
+          "pos": [
+            5,
+            6
+          ],
+          "type": "GPE",
+          "global_pos": [
+            5,
+            6
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Provinsi Ryazan",
+          "pos": [
+            13,
+            15
+          ],
+          "type": "GPE",
+          "global_pos": [
+            52,
+            54
+          ],
+          "sent_id": 2
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P576",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P19",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0,
+          3
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0,
+          3
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 2,
+        "t": 6,
+        "evidence": [
+          2
+        ]
+      },
+      {
+        "r": "P27",
+        "h": 0,
+        "t": 5,
+        "evidence": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Agrilus_felix",
+    "sents": [
+      [
+        "Agrilus",
+        "felix",
+        "adalah",
+        "spesies",
+        "kumbang",
+        "yang",
+        "tergolong",
+        "ke",
+        "dalam",
+        "famili",
+        "Buprestidae",
+        "."
+      ],
+      [
+        "Spesies",
+        "ini",
+        "juga",
+        "merupakan",
+        "bagian",
+        "dari",
+        "ordo",
+        "Coleoptera",
+        "."
+      ],
+      [
+        "Spesies",
+        "Agrilus",
+        "felix",
+        "sendiri",
+        "merupakan",
+        "bagian",
+        "dari",
+        "genus",
+        "Agrilus",
+        "yang",
+        "mencakup",
+        "sekitar",
+        "3.000",
+        "spesies",
+        "."
+      ],
+      [
+        "Nama",
+        "ilmiah",
+        "dari",
+        "spesies",
+        "ini",
+        "pertama",
+        "kali",
+        "diterbitkan",
+        "oleh",
+        "Horn",
+        ",",
+        "1891",
+        "."
+      ],
+      [
+        "==",
+        "Referensi",
+        "=="
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Agrilus felix",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "PER",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        },
+        {
+          "name": "Agrilus felix",
+          "pos": [
+            1,
+            3
+          ],
+          "type": "PER",
+          "global_pos": [
+            22,
+            24
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Buprestidae",
+          "pos": [
+            10,
+            11
+          ],
+          "type": "NORP",
+          "global_pos": [
+            10,
+            11
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Coleoptera",
+          "pos": [
+            7,
+            8
+          ],
+          "type": "NORP",
+          "global_pos": [
+            19,
+            20
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Agrilus",
+          "pos": [
+            8,
+            9
+          ],
+          "type": "NORP",
+          "global_pos": [
+            29,
+            30
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Horn",
+          "pos": [
+            9,
+            10
+          ],
+          "type": "PER",
+          "global_pos": [
+            45,
+            46
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "1891",
+          "pos": [
+            11,
+            12
+          ],
+          "type": "DATE",
+          "global_pos": [
+            47,
+            48
+          ],
+          "sent_id": 3
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0,
+          2
+        ]
+      },
+      {
+        "r": "P138",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0,
+          3
+        ]
+      },
+      {
+        "r": "P571",
+        "h": 0,
+        "t": 5,
+        "evidence": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "title": "(516396)_2000_WY28",
+    "sents": [
+      [
+        "2000",
+        "WY28",
+        "adalah",
+        "sebuah",
+        "asteroid",
+        "."
+      ],
+      [
+        "Asteroid",
+        "ini",
+        "merupakan",
+        "bagian",
+        "dari",
+        "asteroid",
+        "Amor",
+        ",",
+        "yang",
+        "terletak",
+        "dekat",
+        "dengan",
+        "bumi",
+        "."
+      ],
+      [
+        "Eksentrisitas",
+        "orbit",
+        "asteroid",
+        "ini",
+        "tercatat",
+        "sebesar",
+        "0.290",
+        ",",
+        "sementara",
+        "magnitudo",
+        "mutlaknya",
+        "adalah",
+        "20.3",
+        "."
+      ],
+      [
+        "Pembentukan",
+        "Seperti",
+        "asteroid",
+        "secara",
+        "keseluruhan",
+        ",",
+        "asteroid",
+        "ini",
+        "terbentuk",
+        "dari",
+        "nebula",
+        "matahari",
+        "primordial",
+        "sebagai",
+        "pecahan",
+        "planetisimal",
+        ",",
+        "sesuatu",
+        "di",
+        "nebula",
+        "matahari",
+        "muda",
+        "yang",
+        "tidak",
+        "cukup",
+        "besar",
+        "untuk",
+        "berubah",
+        "menjadi",
+        "planet",
+        "."
+      ],
+      [
+        "Referensi",
+        "Pranala",
+        "luar",
+        "Daftar",
+        "asteroid",
+        "Amor",
+        "-",
+        "The",
+        "International",
+        "Astronomical",
+        "Union",
+        "Minor",
+        "Planet",
+        "Center",
+        "."
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "2000 WY28",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "PRODUCT",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Amor",
+          "pos": [
+            6,
+            7
+          ],
+          "type": "NORP",
+          "global_pos": [
+            12,
+            13
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "The International Astronomical Union Minor Planet Center",
+          "pos": [
+            7,
+            14
+          ],
+          "type": "FAC",
+          "global_pos": [
+            72,
+            79
+          ],
+          "sent_id": 4
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P144",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Asal-usul_Danau_Maninjau",
+    "sents": [
+      [
+        "Asal-usul",
+        "Danau",
+        "Maninjau",
+        "adalah",
+        "sebuah",
+        "kaba",
+        "yang",
+        "populer",
+        "di",
+        "lingkungan",
+        "masyarakat",
+        "Minangkabau",
+        "tentang",
+        "asal-usul",
+        "terbentuknya",
+        "danau",
+        "Maninjau",
+        "."
+      ],
+      [
+        "Cerita",
+        "Asal-usul",
+        "Danau",
+        "Maninjau",
+        "juga",
+        "dikenal",
+        "dengan",
+        "Legenda",
+        "Bujang",
+        "Sembilan",
+        "."
+      ],
+      [
+        "Danau",
+        "Maninjau",
+        "adalah",
+        "sebuah",
+        "danau",
+        "vulkanik",
+        "yang",
+        "terletak",
+        "di",
+        "Kecamatan",
+        "Tanjung",
+        "Raya",
+        ",",
+        "Kabupaten",
+        "Agam",
+        ",",
+        "Provinsi",
+        "Sumatera",
+        "Barat",
+        ",",
+        "Indonesia",
+        "."
+      ],
+      [
+        "Danau",
+        "dengan",
+        "luas",
+        "sekitar",
+        "99,5",
+        "km2",
+        "dengan",
+        "kedalaman",
+        "mencapai",
+        "495",
+        "meter",
+        "ini",
+        "merupakan",
+        "danau",
+        "terluas",
+        "kesebelas",
+        "di",
+        "Indonesia",
+        ",",
+        "dan",
+        "terluas",
+        "kedua",
+        "di",
+        "Sumatera",
+        "Barat",
+        "."
+      ],
+      [
+        "Menurut",
+        "cerita",
+        ",",
+        "Danau",
+        "Maninjau",
+        "pada",
+        "awalnya",
+        "merupakan",
+        "gunung",
+        "berapi",
+        "yang",
+        "di",
+        "puncaknya",
+        "terdapat",
+        "sebuah",
+        "kawah",
+        "yang",
+        "luas",
+        "."
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Danau Maninjau",
+          "pos": [
+            1,
+            3
+          ],
+          "type": "LOC",
+          "global_pos": [
+            1,
+            3
+          ],
+          "sent_id": 0
+        },
+        {
+          "name": "Danau Maninjau",
+          "pos": [
+            2,
+            4
+          ],
+          "type": "LOC",
+          "global_pos": [
+            20,
+            22
+          ],
+          "sent_id": 1
+        },
+        {
+          "name": "Danau Maninjau",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "LOC",
+          "global_pos": [
+            29,
+            31
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Minangkabau",
+          "pos": [
+            11,
+            12
+          ],
+          "type": "GPE",
+          "global_pos": [
+            11,
+            12
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Legenda Bujang Sembilan",
+          "pos": [
+            7,
+            10
+          ],
+          "type": "WORK",
+          "global_pos": [
+            25,
+            28
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Kecamatan Tanjung Raya",
+          "pos": [
+            9,
+            12
+          ],
+          "type": "GPE",
+          "global_pos": [
+            38,
+            41
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Kabupaten Agam",
+          "pos": [
+            13,
+            15
+          ],
+          "type": "GPE",
+          "global_pos": [
+            42,
+            44
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Provinsi Sumatera Barat",
+          "pos": [
+            16,
+            19
+          ],
+          "type": "GPE",
+          "global_pos": [
+            45,
+            48
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Indonesia",
+          "pos": [
+            20,
+            21
+          ],
+          "type": "GPE",
+          "global_pos": [
+            49,
+            50
+          ],
+          "sent_id": 2
+        },
+        {
+          "name": "Indonesia",
+          "pos": [
+            17,
+            18
+          ],
+          "type": "GPE",
+          "global_pos": [
+            68,
+            69
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "Sumatera Barat",
+          "pos": [
+            23,
+            25
+          ],
+          "type": "GPE",
+          "global_pos": [
+            74,
+            76
+          ],
+          "sent_id": 3
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P17",
+        "h": 0,
+        "t": 6,
+        "evidence": [
+          2
+        ]
+      },
+      {
+        "r": "P740",
+        "h": 2,
+        "t": 0,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          2
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 3,
+        "t": 4,
+        "evidence": [
+          2
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 4,
+        "t": 5,
+        "evidence": [
+          2
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 5,
+        "t": 6,
+        "evidence": [
+          2
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 7,
+        "evidence": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Wang_Yi_(pendeta)",
+    "sents": [
+      [
+        "Wang",
+        "Yi",
+        "(",
+        "Hanzi",
+        ":",
+        "王怡",
+        ";",
+        "kelahiran",
+        "Juni",
+        "1973",
+        ")",
+        ",",
+        "nama",
+        "pena",
+        "Wang",
+        "Shuya",
+        "(",
+        "Hanzi",
+        ":",
+        "王书亚",
+        ";",
+        "Pinyin",
+        ":",
+        "Wáng",
+        "Shūyà",
+        ")",
+        ",",
+        "adalah",
+        "pendeta",
+        "di",
+        "Gereja",
+        "Perjanjian",
+        "Hujan",
+        "Awal",
+        "(",
+        "Hanzi",
+        ":",
+        "秋雨圣约教会",
+        ";",
+        "Pinyin",
+        ":",
+        "Qiūyǔ",
+        "Shèngyuē",
+        "Jiàohuì",
+        ",",
+        "bahasa",
+        "Inggris",
+        ":",
+        "Early",
+        "Rain",
+        "Covenant",
+        "Church",
+        ")",
+        ";",
+        "sebuah",
+        "gereja",
+        "rumah",
+        "Tiongkok",
+        "di",
+        "Chengdu",
+        "."
+      ],
+      [
+        "Ia",
+        "juga",
+        "merupakan",
+        "penulis",
+        ",",
+        "editor",
+        "dan",
+        "aktivis",
+        "sosial",
+        ",",
+        "dan",
+        "merupakan",
+        "seorang",
+        "cendekiawan",
+        "hukum",
+        "di",
+        "Universitas",
+        "Chengdu",
+        "sebelum",
+        "ia",
+        "mengundurkan",
+        "diri",
+        "untuk",
+        "menjadi",
+        "pendeta",
+        "."
+      ],
+      [
+        "Biografi",
+        "Wang",
+        "Yi",
+        "lahir",
+        "di",
+        "sebuah",
+        "kota",
+        "kecil",
+        "di",
+        "timur",
+        "laut",
+        "Chengdu",
+        "."
+      ],
+      [
+        "Pada",
+        "tahun",
+        "1996",
+        ",",
+        "ia",
+        "lulus",
+        "dari",
+        "Universitas",
+        "Sichuan",
+        "dan",
+        "mulai",
+        "mengajar",
+        "hukum",
+        "di",
+        "Universitas",
+        "Chengdu",
+        "."
+      ],
+      [
+        "Ia",
+        "adalah",
+        "advokat",
+        "hak",
+        "asasi",
+        "yang",
+        "vokal",
+        ",",
+        "dan",
+        "komentar-komentar",
+        "budaya",
+        "dan",
+        "politiknya",
+        "membuat",
+        "Wang",
+        "Yi",
+        "mendapatkan",
+        "perhatian",
+        "secara",
+        "nasional",
+        "."
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Wang Yi",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "PER",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        },
+        {
+          "name": "Wang Yi",
+          "pos": [
+            1,
+            3
+          ],
+          "type": "PER",
+          "global_pos": [
+            80,
+            82
+          ],
+          "sent_id": 2
+        },
+        {
+          "name": "Wang Yi",
+          "pos": [
+            14,
+            16
+          ],
+          "type": "PER",
+          "global_pos": [
+            131,
+            133
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "Juni 1973",
+          "pos": [
+            8,
+            10
+          ],
+          "type": "DATE",
+          "global_pos": [
+            8,
+            10
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "pendeta",
+          "pos": [
+            28,
+            29
+          ],
+          "type": "WORK",
+          "global_pos": [
+            28,
+            29
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Gereja Perjanjian Hujan Awal",
+          "pos": [
+            30,
+            34
+          ],
+          "type": "FAC",
+          "global_pos": [
+            30,
+            34
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Tiongkok",
+          "pos": [
+            57,
+            58
+          ],
+          "type": "GPE",
+          "global_pos": [
+            57,
+            58
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Chengdu",
+          "pos": [
+            59,
+            60
+          ],
+          "type": "GPE",
+          "global_pos": [
+            59,
+            60
+          ],
+          "sent_id": 0
+        },
+        {
+          "name": "Chengdu",
+          "pos": [
+            11,
+            12
+          ],
+          "type": "GPE",
+          "global_pos": [
+            90,
+            91
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Universitas Sichuan",
+          "pos": [
+            7,
+            9
+          ],
+          "type": "ORG",
+          "global_pos": [
+            107,
+            109
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "Universitas Chengdu",
+          "pos": [
+            14,
+            16
+          ],
+          "type": "ORG",
+          "global_pos": [
+            114,
+            116
+          ],
+          "sent_id": 3
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P571",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P159",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P27",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P19",
+        "h": 0,
+        "t": 5,
+        "evidence": [
+          2
+        ]
+      },
+      {
+        "r": "P69",
+        "h": 0,
+        "t": 6,
+        "evidence": [
+          0,
+          3
+        ]
+      },
+      {
+        "r": "P159",
+        "h": 0,
+        "t": 7,
+        "evidence": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Miconia_bangii",
+    "sents": [
+      [
+        "Miconia",
+        "bangii",
+        "adalah",
+        "spesies",
+        "tumbuhan",
+        "yang",
+        "tergolong",
+        "ke",
+        "dalam",
+        "famili",
+        "Melastomataceae",
+        "."
+      ],
+      [
+        "Spesies",
+        "ini",
+        "juga",
+        "merupakan",
+        "bagian",
+        "dari",
+        "ordo",
+        "Myrtales",
+        "."
+      ],
+      [
+        "Spesies",
+        "Miconia",
+        "bangii",
+        "sendiri",
+        "merupakan",
+        "bagian",
+        "dari",
+        "genus",
+        "Miconia",
+        "."
+      ],
+      [
+        "Nama",
+        "ilmiah",
+        "dari",
+        "spesies",
+        "ini",
+        "pertama",
+        "kali",
+        "diterbitkan",
+        "oleh",
+        "Cogn",
+        "..",
+        "==",
+        "Referensi",
+        "=="
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Miconia bangii",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "PER",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        },
+        {
+          "name": "Miconia bangii",
+          "pos": [
+            1,
+            3
+          ],
+          "type": "PER",
+          "global_pos": [
+            22,
+            24
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Melastomataceae",
+          "pos": [
+            10,
+            11
+          ],
+          "type": "NORP",
+          "global_pos": [
+            10,
+            11
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Myrtales",
+          "pos": [
+            7,
+            8
+          ],
+          "type": "NORP",
+          "global_pos": [
+            19,
+            20
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Miconia",
+          "pos": [
+            8,
+            9
+          ],
+          "type": "NORP",
+          "global_pos": [
+            29,
+            30
+          ],
+          "sent_id": 2
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rock_Action",
+    "sents": [
+      [
+        "Rock",
+        "Action",
+        "(",
+        "dahulu",
+        "RTL",
+        "CBS",
+        "Extreme",
+        ",",
+        "Blue",
+        "Ant",
+        "Extreme",
+        ",",
+        "dan",
+        "Rock",
+        "Extreme",
+        ")",
+        "adalah",
+        "sebuah",
+        "saluran",
+        "televisi",
+        "film",
+        "berbahasa",
+        "Inggris",
+        "yang",
+        "melayani",
+        "wilayah",
+        "Asia",
+        "Tenggara",
+        ",",
+        "dimiliki",
+        "dan",
+        "diproduksi",
+        "oleh",
+        "Rock",
+        "Entertainment",
+        "Holdings",
+        "."
+      ],
+      [
+        "Saluran",
+        "ini",
+        "sebelumnya",
+        "dikenal",
+        "sebagai",
+        "RTL",
+        "CBS",
+        "Extreme",
+        ",",
+        "yang",
+        "diproduksi",
+        "oleh",
+        "RTL",
+        "CBS",
+        "Asia",
+        "Entertainment",
+        "Network",
+        ",",
+        "sebuah",
+        "usaha",
+        "patungan",
+        "antara",
+        "RTL",
+        "Group",
+        "dan",
+        "CBS",
+        "Studios",
+        "International",
+        "."
+      ],
+      [
+        "Saluran",
+        "ini",
+        "diluncurkan",
+        "pada",
+        "27",
+        "Maret",
+        "2014",
+        "yang",
+        "berfokus",
+        "pada",
+        "aksi",
+        "yang",
+        "dikemas",
+        "dalam",
+        "hiburan",
+        "dan",
+        "disiarkan",
+        "dalam",
+        "resolusi",
+        "tinggi",
+        "."
+      ],
+      [
+        "Pada",
+        "1",
+        "Januari",
+        "2018",
+        ",",
+        "RTL",
+        "CBS",
+        "Extreme",
+        "berganti",
+        "nama",
+        "menjadi",
+        "Blue",
+        "Ant",
+        "Extreme",
+        "setelah",
+        "akuisisi",
+        "Blue",
+        "Ant",
+        "Media",
+        "dari",
+        "RTL",
+        "CBS",
+        "."
+      ],
+      [
+        "Pada",
+        "18",
+        "Agustus",
+        "2021",
+        ",",
+        "diumumkan",
+        "bahwa",
+        "Blue",
+        "Ant",
+        "Entertainment",
+        "dan",
+        "Blue",
+        "Ant",
+        "Extreme",
+        "akan",
+        "melakukan",
+        "rebranding",
+        "menjadi",
+        "Rock",
+        "Entertainment",
+        "dan",
+        "Rock",
+        "Extreme",
+        "mulai",
+        "1",
+        "September",
+        "."
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Rock Action",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "ORG",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "RTL CBS Extreme",
+          "pos": [
+            4,
+            7
+          ],
+          "type": "ORG",
+          "global_pos": [
+            4,
+            7
+          ],
+          "sent_id": 0
+        },
+        {
+          "name": "RTL CBS Extreme",
+          "pos": [
+            5,
+            8
+          ],
+          "type": "ORG",
+          "global_pos": [
+            42,
+            45
+          ],
+          "sent_id": 1
+        },
+        {
+          "name": "RTL CBS Extreme",
+          "pos": [
+            5,
+            8
+          ],
+          "type": "ORG",
+          "global_pos": [
+            42,
+            45
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Blue Ant Extreme",
+          "pos": [
+            8,
+            11
+          ],
+          "type": "ORG",
+          "global_pos": [
+            8,
+            11
+          ],
+          "sent_id": 0
+        },
+        {
+          "name": "Blue Ant Extreme",
+          "pos": [
+            11,
+            14
+          ],
+          "type": "ORG",
+          "global_pos": [
+            98,
+            101
+          ],
+          "sent_id": 3
+        },
+        {
+          "name": "Blue Ant Extreme",
+          "pos": [
+            11,
+            14
+          ],
+          "type": "ORG",
+          "global_pos": [
+            121,
+            124
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "Rock Extreme",
+          "pos": [
+            13,
+            15
+          ],
+          "type": "ORG",
+          "global_pos": [
+            13,
+            15
+          ],
+          "sent_id": 0
+        },
+        {
+          "name": "Rock Extreme",
+          "pos": [
+            21,
+            23
+          ],
+          "type": "ORG",
+          "global_pos": [
+            131,
+            133
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "Inggris",
+          "pos": [
+            22,
+            23
+          ],
+          "type": "NORP",
+          "global_pos": [
+            22,
+            23
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Rock Entertainment Holdings",
+          "pos": [
+            33,
+            36
+          ],
+          "type": "ORG",
+          "global_pos": [
+            33,
+            36
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "RTL CBS Asia Entertainment Network",
+          "pos": [
+            12,
+            17
+          ],
+          "type": "ORG",
+          "global_pos": [
+            49,
+            54
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "RTL Group",
+          "pos": [
+            22,
+            24
+          ],
+          "type": "ORG",
+          "global_pos": [
+            59,
+            61
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "CBS Studios International",
+          "pos": [
+            25,
+            28
+          ],
+          "type": "ORG",
+          "global_pos": [
+            62,
+            65
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "27 Maret 2014",
+          "pos": [
+            4,
+            7
+          ],
+          "type": "DATE",
+          "global_pos": [
+            70,
+            73
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "1 Januari 2018",
+          "pos": [
+            1,
+            4
+          ],
+          "type": "DATE",
+          "global_pos": [
+            88,
+            91
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "Blue Ant Media",
+          "pos": [
+            16,
+            19
+          ],
+          "type": "ORG",
+          "global_pos": [
+            103,
+            106
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "RTL CBS",
+          "pos": [
+            20,
+            22
+          ],
+          "type": "ORG",
+          "global_pos": [
+            107,
+            109
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "18 Agustus 2021",
+          "pos": [
+            1,
+            4
+          ],
+          "type": "DATE",
+          "global_pos": [
+            111,
+            114
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "Blue Ant Entertainment",
+          "pos": [
+            7,
+            10
+          ],
+          "type": "ORG",
+          "global_pos": [
+            117,
+            120
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "Rock Entertainment",
+          "pos": [
+            18,
+            20
+          ],
+          "type": "ORG",
+          "global_pos": [
+            128,
+            130
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "1 September",
+          "pos": [
+            24,
+            26
+          ],
+          "type": "DATE",
+          "global_pos": [
+            134,
+            136
+          ],
+          "sent_id": 4
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P571",
+        "h": 0,
+        "t": 9,
+        "evidence": [
+          0,
+          2
+        ]
+      },
+      {
+        "r": "P941",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P941",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P941",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P50",
+        "h": 6,
+        "t": 1,
+        "evidence": [
+          1
+        ]
+      },
+      {
+        "r": "P527",
+        "h": 7,
+        "t": 6,
+        "evidence": [
+          1
+        ]
+      },
+      {
+        "r": "P527",
+        "h": 8,
+        "t": 6,
+        "evidence": [
+          1
+        ]
+      },
+      {
+        "r": "P576",
+        "h": 14,
+        "t": 16,
+        "evidence": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Semendawai_Barat,_Ogan_Komering_Ulu_Timur",
+    "sents": [
+      [
+        "Semendawai",
+        "Barat",
+        "adalah",
+        "sebuah",
+        "kecamatan",
+        "di",
+        "Kabupaten",
+        "Ogan",
+        "Komering",
+        "Ulu",
+        "Timur",
+        ",",
+        "Sumatera",
+        "Selatan",
+        ",",
+        "Indonesia",
+        "."
+      ],
+      [
+        "==",
+        "Referensi",
+        "=="
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Semendawai Barat",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "GPE",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Kabupaten Ogan Komering Ulu Timur",
+          "pos": [
+            6,
+            11
+          ],
+          "type": "GPE",
+          "global_pos": [
+            6,
+            11
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Sumatera Selatan",
+          "pos": [
+            12,
+            14
+          ],
+          "type": "GPE",
+          "global_pos": [
+            12,
+            14
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Indonesia",
+          "pos": [
+            15,
+            16
+          ],
+          "type": "GPE",
+          "global_pos": [
+            15,
+            16
+          ],
+          "sent_id": 0
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 1,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 2,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Safitri_Malik_Soulisa",
+    "sents": [
+      [
+        "Safitri",
+        "Malik",
+        "Soulisa",
+        "(",
+        "lahir",
+        "15",
+        "September",
+        "1977",
+        ")",
+        "adalah",
+        "seorang",
+        "politikus",
+        "Indonesia",
+        "kelahiran",
+        "Ternate",
+        "."
+      ],
+      [
+        "Safitri",
+        "Malik",
+        "Soulisa",
+        "adalah",
+        "istri",
+        "dari",
+        "Bupati",
+        "Buru",
+        "Selatan",
+        ",",
+        "Tagop",
+        "Sudarsono",
+        "Soulisa",
+        "dari",
+        "2011",
+        "sampai",
+        "2020",
+        "."
+      ],
+      [
+        "Safitri",
+        "Malik",
+        "Soulisa",
+        "pernah",
+        "menjabat",
+        "Anggota",
+        "DPRD",
+        "Provinsi",
+        "Maluku",
+        "periode",
+        "2014-2019",
+        "."
+      ],
+      [
+        "Pada",
+        "Juni",
+        "2021",
+        ",",
+        "ia",
+        "dilantik",
+        "menjadi",
+        "Bupati",
+        "Buru",
+        "Selatan",
+        "periode",
+        "2021-2026",
+        "."
+      ],
+      [
+        "Karier",
+        "Ia",
+        "merupakan",
+        "bupati",
+        "perempuan",
+        "pertama",
+        "di",
+        "kabupaten",
+        "tersebut",
+        "."
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Safitri Malik Soulisa",
+          "pos": [
+            0,
+            3
+          ],
+          "type": "PER",
+          "global_pos": [
+            0,
+            3
+          ],
+          "sent_id": 0
+        },
+        {
+          "name": "Safitri Malik Soulisa",
+          "pos": [
+            0,
+            3
+          ],
+          "type": "PER",
+          "global_pos": [
+            16,
+            19
+          ],
+          "sent_id": 1
+        },
+        {
+          "name": "Safitri Malik Soulisa",
+          "pos": [
+            0,
+            3
+          ],
+          "type": "PER",
+          "global_pos": [
+            34,
+            37
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "15 September 1977",
+          "pos": [
+            5,
+            8
+          ],
+          "type": "DATE",
+          "global_pos": [
+            5,
+            8
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "politikus",
+          "pos": [
+            11,
+            12
+          ],
+          "type": "WORK",
+          "global_pos": [
+            11,
+            12
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Indonesia",
+          "pos": [
+            12,
+            13
+          ],
+          "type": "NORP",
+          "global_pos": [
+            12,
+            13
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Ternate",
+          "pos": [
+            14,
+            15
+          ],
+          "type": "GPE",
+          "global_pos": [
+            14,
+            15
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Bupati Buru Selatan",
+          "pos": [
+            6,
+            9
+          ],
+          "type": "WORK",
+          "global_pos": [
+            22,
+            25
+          ],
+          "sent_id": 1
+        },
+        {
+          "name": "Bupati Buru Selatan",
+          "pos": [
+            7,
+            10
+          ],
+          "type": "WORK",
+          "global_pos": [
+            53,
+            56
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "Tagop Sudarsono Soulisa",
+          "pos": [
+            10,
+            13
+          ],
+          "type": "PER",
+          "global_pos": [
+            26,
+            29
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Anggota DPRD",
+          "pos": [
+            5,
+            7
+          ],
+          "type": "WORK",
+          "global_pos": [
+            39,
+            41
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Provinsi Maluku",
+          "pos": [
+            7,
+            9
+          ],
+          "type": "GPE",
+          "global_pos": [
+            41,
+            43
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Juni 2021",
+          "pos": [
+            1,
+            3
+          ],
+          "type": "DATE",
+          "global_pos": [
+            47,
+            49
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "bupati perempuan pertama",
+          "pos": [
+            3,
+            6
+          ],
+          "type": "WORK",
+          "global_pos": [
+            62,
+            65
+          ],
+          "sent_id": 4
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P571",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P27",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P19",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 6,
+        "t": 5,
+        "evidence": [
+          1
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 0,
+        "t": 7,
+        "evidence": [
+          0,
+          2
+        ]
+      },
+      {
+        "r": "P159",
+        "h": 7,
+        "t": 8,
+        "evidence": [
+          2
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 0,
+        "t": 5,
+        "evidence": [
+          0,
+          3
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 0,
+        "t": 10,
+        "evidence": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Museum_Kalijati",
+    "sents": [
+      [
+        "Museum",
+        "Kalijati",
+        "adalah",
+        "Rumah",
+        "yang",
+        "Bersejarah",
+        "berada",
+        "di",
+        "Komplek",
+        "Garuda",
+        "E",
+        "25",
+        "Lanud",
+        "Suryadarma",
+        ",",
+        "secara",
+        "administratif",
+        "berada",
+        "di",
+        "wilayah",
+        "Desa",
+        "Kalijati",
+        "Barat",
+        ",",
+        "Kecamatan",
+        "Kalijati",
+        "."
+      ],
+      [
+        "Lokasi",
+        "ini",
+        "tepatnya",
+        "berada",
+        "pada",
+        "posisi",
+        "06°",
+        "31",
+        "'",
+        "426",
+        "''",
+        "Lintang",
+        "Selatan",
+        "dan",
+        "107°",
+        "39",
+        "'",
+        "660",
+        "''",
+        "Bujur",
+        "Timur",
+        ",",
+        "kurang",
+        "lebih",
+        "25",
+        "km",
+        "dari",
+        "kota",
+        "Subang",
+        "."
+      ],
+      [
+        "Sejarah",
+        "Rumah",
+        "Bersejarah",
+        "Subang",
+        "merupakan",
+        "objek",
+        "yang",
+        "bernilai",
+        "sejarah",
+        "tinggi",
+        "bagi",
+        "bangsa",
+        "Indonesia",
+        "."
+      ],
+      [
+        "Pada",
+        "tanggal",
+        "8",
+        "Maret",
+        "1942",
+        "telah",
+        "dilaksanakan",
+        "penyerahan",
+        "kekuasaan",
+        "Belanda",
+        "kepada",
+        "Jepang",
+        ",",
+        "yang",
+        "ditandai",
+        "dengan",
+        "penandatanganan",
+        "naskah",
+        "penyerahan",
+        "tanpa",
+        "syarat",
+        "kekuasaan",
+        "Belanda",
+        "kepada",
+        "Jepang",
+        "."
+      ],
+      [
+        "Dengan",
+        "ditandatangani",
+        "perjanjian",
+        "tersebut",
+        "maka",
+        "berakhirlah",
+        "penjajahan",
+        "Belanda",
+        "secara",
+        "keseluruhan",
+        "di",
+        "bumi",
+        "Indonesia",
+        "."
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Museum Kalijati",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "LOC",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Komplek Garuda E 25 Lanud Suryadarma",
+          "pos": [
+            8,
+            14
+          ],
+          "type": "LOC",
+          "global_pos": [
+            8,
+            14
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Kecamatan Kalijati",
+          "pos": [
+            24,
+            26
+          ],
+          "type": "GPE",
+          "global_pos": [
+            24,
+            26
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Subang",
+          "pos": [
+            28,
+            29
+          ],
+          "type": "GPE",
+          "global_pos": [
+            55,
+            56
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Indonesia",
+          "pos": [
+            12,
+            13
+          ],
+          "type": "GPE",
+          "global_pos": [
+            69,
+            70
+          ],
+          "sent_id": 2
+        },
+        {
+          "name": "Indonesia",
+          "pos": [
+            12,
+            13
+          ],
+          "type": "GPE",
+          "global_pos": [
+            109,
+            110
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "8 Maret 1942",
+          "pos": [
+            2,
+            5
+          ],
+          "type": "DATE",
+          "global_pos": [
+            73,
+            76
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "Belanda",
+          "pos": [
+            9,
+            10
+          ],
+          "type": "GPE",
+          "global_pos": [
+            80,
+            81
+          ],
+          "sent_id": 3
+        },
+        {
+          "name": "Belanda",
+          "pos": [
+            7,
+            8
+          ],
+          "type": "GPE",
+          "global_pos": [
+            104,
+            105
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "Jepang",
+          "pos": [
+            11,
+            12
+          ],
+          "type": "GPE",
+          "global_pos": [
+            82,
+            83
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "naskah penyerahan tanpa syarat",
+          "pos": [
+            17,
+            21
+          ],
+          "type": "WORK",
+          "global_pos": [
+            88,
+            92
+          ],
+          "sent_id": 3
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0,
+          2
+        ]
+      },
+      {
+        "r": "P571",
+        "h": 8,
+        "t": 5,
+        "evidence": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Stasiun_Aoyama_(Niigata)",
+    "sents": [
+      [
+        "Stasiun",
+        "Aoyama",
+        "(",
+        "青山駅code",
+        ":",
+        "ja",
+        "is",
+        "deprecated",
+        ",",
+        "Aoyama-eki",
+        ")",
+        "adalah",
+        "sebuah",
+        "stasiun",
+        "kereta",
+        "api",
+        "di",
+        "Nishi-ku",
+        ",",
+        "Niigata",
+        ",",
+        "Prefektur",
+        "Niigata",
+        ",",
+        "Jepang",
+        "."
+      ],
+      [
+        "Pengoperasian",
+        "Stasiun",
+        "Aoyama",
+        "dilakukan",
+        "oleh",
+        "Perusahaan",
+        "Kereta",
+        "Api",
+        "Jepang",
+        "Timur",
+        "."
+      ],
+      [
+        "Jalur",
+        "Stasiun",
+        "Aoyama",
+        "dilayani",
+        "oleh",
+        "Jalur",
+        "Echigo",
+        ",",
+        "dan",
+        "berjarak",
+        "77.7",
+        "kilometer",
+        "dari",
+        "terminus",
+        "jalur",
+        "tersebut",
+        "di",
+        "Kashiwazaki",
+        "."
+      ],
+      [
+        "Referensi",
+        "Pranala",
+        "luar",
+        "JR",
+        "East",
+        "station",
+        "information",
+        "(",
+        "dalam",
+        "bahasa",
+        "Jepang",
+        ")",
+        "Templat",
+        ":",
+        "Niigata-railstation-stub"
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Stasiun Aoyama",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "FAC",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        },
+        {
+          "name": "Stasiun Aoyama",
+          "pos": [
+            1,
+            3
+          ],
+          "type": "FAC",
+          "global_pos": [
+            27,
+            29
+          ],
+          "sent_id": 1
+        },
+        {
+          "name": "Stasiun Aoyama",
+          "pos": [
+            1,
+            3
+          ],
+          "type": "FAC",
+          "global_pos": [
+            38,
+            40
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Nishi-ku , Niigata , Prefektur Niigata , Jepang",
+          "pos": [
+            17,
+            25
+          ],
+          "type": "GPE",
+          "global_pos": [
+            17,
+            25
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Perusahaan Kereta Api Jepang Timur",
+          "pos": [
+            5,
+            10
+          ],
+          "type": "ORG",
+          "global_pos": [
+            31,
+            36
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Jalur Echigo",
+          "pos": [
+            5,
+            7
+          ],
+          "type": "FAC",
+          "global_pos": [
+            42,
+            44
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Kashiwazaki",
+          "pos": [
+            17,
+            18
+          ],
+          "type": "GPE",
+          "global_pos": [
+            54,
+            55
+          ],
+          "sent_id": 2
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P159",
+        "h": 2,
+        "t": 0,
+        "evidence": [
+          1
+        ]
+      },
+      {
+        "r": "P527",
+        "h": 3,
+        "t": 0,
+        "evidence": [
+          2
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 3,
+        "t": 4,
+        "evidence": [
+          2
+        ]
+      }
+    ]
+  }
+]

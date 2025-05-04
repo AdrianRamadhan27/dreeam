@@ -1,0 +1,1316 @@
+[
+  {
+    "title": "Provinsi_Rovigo",
+    "sents": [
+      [
+        "Provinsi",
+        "Rovigo",
+        "(",
+        "bahasa",
+        "Italia",
+        ":",
+        "Provincia",
+        "di",
+        "Rovigo",
+        ")",
+        "merupakan",
+        "salah",
+        "satu",
+        "provinsi",
+        "di",
+        "Italia",
+        "."
+      ],
+      [
+        "Provinsi",
+        "ini",
+        "memiliki",
+        "luas",
+        "wilayah",
+        "1.789",
+        "km²",
+        "."
+      ],
+      [
+        "Dengan",
+        "memiliki",
+        "jumlah",
+        "penduduk",
+        "sebanyak",
+        "244.625",
+        "jiwa",
+        "(",
+        "2001",
+        ")",
+        "."
+      ],
+      [
+        "Dengan",
+        "kepadatan",
+        "penduduk",
+        "136,7",
+        "jiwa/km²",
+        "."
+      ],
+      [
+        "Provinsi",
+        "ini",
+        "terbagi",
+        "menjadi",
+        "50",
+        "komunitas",
+        "."
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Provinsi Rovigo",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "GPE",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Italia",
+          "pos": [
+            15,
+            16
+          ],
+          "type": "GPE",
+          "global_pos": [
+            15,
+            16
+          ],
+          "sent_id": 0
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P17",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cijolang,_Balubur_Limbangan,_Garut",
+    "sents": [
+      [
+        "Cijolang",
+        "adalah",
+        "sebuah",
+        "desa",
+        "di",
+        "Kecamatan",
+        "Balubur",
+        "Limbangan",
+        ",",
+        "Kabupaten",
+        "Garut",
+        ",",
+        "Provinsi",
+        "Jawa",
+        "Barat",
+        ",",
+        "Indonesia",
+        "."
+      ],
+      [
+        "Pranala",
+        "luar",
+        "(",
+        "Indonesia",
+        ")",
+        "Keputusan",
+        "Menteri",
+        "Dalam",
+        "Negeri",
+        "Nomor",
+        "050-145",
+        "Tahun",
+        "2022",
+        "tentang",
+        "Pemberian",
+        "dan",
+        "Pemutakhiran",
+        "Kode",
+        ",",
+        "Data",
+        "Wilayah",
+        "Administrasi",
+        "Pemerintahan",
+        ",",
+        "dan",
+        "Pulau",
+        "tahun",
+        "2021",
+        "(",
+        "Indonesia",
+        ")",
+        "Peraturan",
+        "Menteri",
+        "Dalam",
+        "Negeri",
+        "Nomor",
+        "72",
+        "Tahun",
+        "2019",
+        "tentang",
+        "Perubahan",
+        "atas",
+        "Peraturan",
+        "Menteri",
+        "Dalam",
+        "Negeri",
+        "Nomor",
+        "137",
+        "Tahun",
+        "2017",
+        "tentang",
+        "Kode",
+        "dan",
+        "Data",
+        "Wilayah",
+        "Administrasi",
+        "Pemerintahan",
+        "(",
+        "Indonesia",
+        ")",
+        "Peraturan",
+        "Menteri",
+        "Dalam",
+        "Negeri",
+        "Nomor",
+        "137",
+        "Tahun",
+        "2017",
+        "tentang",
+        "Kode",
+        "dan",
+        "Data",
+        "Wilayah",
+        "Administrasi",
+        "Pemerintahan"
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Cijolang",
+          "pos": [
+            0,
+            1
+          ],
+          "type": "GPE",
+          "global_pos": [
+            0,
+            1
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Kecamatan Balubur Limbangan",
+          "pos": [
+            5,
+            8
+          ],
+          "type": "GPE",
+          "global_pos": [
+            5,
+            8
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Kabupaten Garut",
+          "pos": [
+            9,
+            11
+          ],
+          "type": "GPE",
+          "global_pos": [
+            9,
+            11
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Provinsi Jawa Barat",
+          "pos": [
+            12,
+            15
+          ],
+          "type": "GPE",
+          "global_pos": [
+            12,
+            15
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Indonesia",
+          "pos": [
+            16,
+            17
+          ],
+          "type": "GPE",
+          "global_pos": [
+            16,
+            17
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Kecamatan Balubur Limbangan , Kabupaten Garut , Provinsi",
+          "pos": [
+            5,
+            13
+          ],
+          "type": "LAW",
+          "global_pos": [
+            5,
+            13
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Keputusan Menteri Dalam Negeri Nomor 050-145 Tahun 2022",
+          "pos": [
+            5,
+            13
+          ],
+          "type": "LAW",
+          "global_pos": [
+            23,
+            31
+          ],
+          "sent_id": 1
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P17",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 1,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 2,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P17",
+        "h": 3,
+        "t": 4,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P144",
+        "h": 0,
+        "t": 6,
+        "evidence": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Afromochtherus_melanurus",
+    "sents": [
+      [
+        "Afromochtherus",
+        "melanurus",
+        "adalah",
+        "spesies",
+        "lalat",
+        "yang",
+        "tergolong",
+        "famili",
+        "Asilidae",
+        "."
+      ],
+      [
+        "Lalat",
+        "ini",
+        "juga",
+        "merupakan",
+        "bagian",
+        "dari",
+        "genus",
+        "Afromochtherus",
+        ",",
+        "ordo",
+        "Diptera",
+        ",",
+        "kelas",
+        "Insecta",
+        ",",
+        "filum",
+        "Arthropoda",
+        ",",
+        "dan",
+        "kingdom",
+        "Animalia",
+        "."
+      ],
+      [
+        "Lalat",
+        "ini",
+        "mempunyai",
+        "insting",
+        "predator",
+        "yang",
+        "agresif",
+        "dan",
+        "makanannya",
+        "utamanya",
+        "adalah",
+        "serangga",
+        "lain",
+        "."
+      ],
+      [
+        "Referensi",
+        "Bisby",
+        "F.A.",
+        ",",
+        "Roskov",
+        "Y.R.",
+        ",",
+        "Orrell",
+        "T.M.",
+        ",",
+        "Nicolson",
+        "D.",
+        ",",
+        "Paglinawan",
+        "L.E.",
+        ",",
+        "Bailly",
+        "N.",
+        ",",
+        "Kirk",
+        "P.M.",
+        ",",
+        "Bourgoin",
+        "T.",
+        ",",
+        "Baillargeon",
+        "G.",
+        ",",
+        "Ouvrard",
+        "D",
+        "."
+      ],
+      [
+        "(",
+        "red",
+        ".",
+        ")"
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Afromochtherus melanurus",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "PER",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Asilidae",
+          "pos": [
+            8,
+            9
+          ],
+          "type": "NORP",
+          "global_pos": [
+            8,
+            9
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Afromochtherus",
+          "pos": [
+            7,
+            8
+          ],
+          "type": "NORP",
+          "global_pos": [
+            17,
+            18
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Diptera",
+          "pos": [
+            10,
+            11
+          ],
+          "type": "NORP",
+          "global_pos": [
+            20,
+            21
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Insecta",
+          "pos": [
+            13,
+            14
+          ],
+          "type": "NORP",
+          "global_pos": [
+            23,
+            24
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Arthropoda",
+          "pos": [
+            16,
+            17
+          ],
+          "type": "NORP",
+          "global_pos": [
+            26,
+            27
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Animalia",
+          "pos": [
+            20,
+            21
+          ],
+          "type": "NORP",
+          "global_pos": [
+            30,
+            31
+          ],
+          "sent_id": 1
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 5,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 6,
+        "evidence": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Gary_Goetzman",
+    "sents": [
+      [
+        "Gary",
+        "Michael",
+        "Goetzman",
+        "(",
+        "lahir",
+        "6",
+        "November",
+        "1952",
+        ")",
+        "adalah",
+        "produser",
+        "film",
+        "dan",
+        "televisi",
+        "berkebangsaan",
+        "Amerika",
+        "Serikat",
+        "."
+      ],
+      [
+        "Dia",
+        "juga",
+        "dikenal",
+        "sebagai",
+        "salah",
+        "satu",
+        "pendiri",
+        "Playtone",
+        "bersama",
+        "Tom",
+        "Hanks",
+        "."
+      ],
+      [
+        "Latar",
+        "belakang",
+        "Lahir",
+        "di",
+        "Los",
+        "Angeles",
+        ",",
+        "Goetzman",
+        "mengawali",
+        "kariernya",
+        "sebagai",
+        "pemeran",
+        "cilik",
+        "."
+      ],
+      [
+        "tahun",
+        "1984",
+        ",",
+        "Gary",
+        "Goetzman",
+        "memproduseri",
+        "konser",
+        "film",
+        "Talking",
+        "Heads",
+        "bersama",
+        "sutradara",
+        "Jonathan",
+        "Demme",
+        "."
+      ],
+      [
+        "Proyek",
+        "itu",
+        "menjadi",
+        "cikal-bakal",
+        "kesuksesannya",
+        "sebagai",
+        "supervisor",
+        "musik",
+        "di",
+        "beberapa",
+        "film",
+        "antara",
+        "lain",
+        "Something",
+        "Wild",
+        ",",
+        "Colors",
+        ",",
+        "Modern",
+        "Girls",
+        ",",
+        "dan",
+        "Married",
+        "to",
+        "the",
+        "Mob",
+        "."
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Gary Michael Goetzman",
+          "pos": [
+            0,
+            3
+          ],
+          "type": "PER",
+          "global_pos": [
+            0,
+            3
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "6 November 1952",
+          "pos": [
+            5,
+            8
+          ],
+          "type": "DATE",
+          "global_pos": [
+            5,
+            8
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "produser film dan televisi",
+          "pos": [
+            10,
+            14
+          ],
+          "type": "WORK",
+          "global_pos": [
+            10,
+            14
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Amerika Serikat",
+          "pos": [
+            15,
+            17
+          ],
+          "type": "NORP",
+          "global_pos": [
+            15,
+            17
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Playtone",
+          "pos": [
+            7,
+            8
+          ],
+          "type": "ORG",
+          "global_pos": [
+            25,
+            26
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Tom Hanks",
+          "pos": [
+            9,
+            11
+          ],
+          "type": "PER",
+          "global_pos": [
+            27,
+            29
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Los Angeles",
+          "pos": [
+            4,
+            6
+          ],
+          "type": "GPE",
+          "global_pos": [
+            34,
+            36
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "pemeran cilik",
+          "pos": [
+            11,
+            13
+          ],
+          "type": "WORK",
+          "global_pos": [
+            41,
+            43
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Talking Heads",
+          "pos": [
+            8,
+            10
+          ],
+          "type": "WORK",
+          "global_pos": [
+            52,
+            54
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "Jonathan Demme",
+          "pos": [
+            12,
+            14
+          ],
+          "type": "PER",
+          "global_pos": [
+            56,
+            58
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "supervisor musik",
+          "pos": [
+            6,
+            8
+          ],
+          "type": "WORK",
+          "global_pos": [
+            65,
+            67
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "Something Wild",
+          "pos": [
+            13,
+            15
+          ],
+          "type": "WORK",
+          "global_pos": [
+            72,
+            74
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "Colors",
+          "pos": [
+            16,
+            17
+          ],
+          "type": "WORK",
+          "global_pos": [
+            75,
+            76
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "Modern Girls",
+          "pos": [
+            18,
+            20
+          ],
+          "type": "WORK",
+          "global_pos": [
+            77,
+            79
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "Married to the Mob",
+          "pos": [
+            22,
+            26
+          ],
+          "type": "WORK",
+          "global_pos": [
+            81,
+            85
+          ],
+          "sent_id": 4
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P571",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P27",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P50",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P50",
+        "h": 5,
+        "t": 4,
+        "evidence": [
+          1
+        ]
+      },
+      {
+        "r": "P19",
+        "h": 0,
+        "t": 6,
+        "evidence": [
+          0,
+          2
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 0,
+        "t": 7,
+        "evidence": [
+          0,
+          2
+        ]
+      },
+      {
+        "r": "P50",
+        "h": 0,
+        "t": 8,
+        "evidence": [
+          0,
+          3
+        ]
+      },
+      {
+        "r": "P50",
+        "h": 9,
+        "t": 8,
+        "evidence": [
+          3
+        ]
+      },
+      {
+        "r": "P50",
+        "h": 0,
+        "t": 11,
+        "evidence": [
+          0,
+          4
+        ]
+      },
+      {
+        "r": "P50",
+        "h": 0,
+        "t": 12,
+        "evidence": [
+          0,
+          4
+        ]
+      },
+      {
+        "r": "P50",
+        "h": 0,
+        "t": 13,
+        "evidence": [
+          0,
+          4
+        ]
+      },
+      {
+        "r": "P50",
+        "h": 0,
+        "t": 14,
+        "evidence": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "title": "SMA_Negeri_2_Tarutung",
+    "sents": [
+      [
+        "Sekolah",
+        "Menengah",
+        "Atas",
+        "Negeri",
+        "2",
+        "Tarutung",
+        "adalah",
+        "salah",
+        "satu",
+        "SMA",
+        "Negeri",
+        "di",
+        "Kabupaten",
+        "Tapanuli",
+        "Utara",
+        "yang",
+        "terakreditasi",
+        "A",
+        "oleh",
+        "Badan",
+        "Akreditasi",
+        "Nasional",
+        "Sekolah/Madrasah",
+        "."
+      ],
+      [
+        "SMA",
+        "Negeri",
+        "2",
+        "Tarutung",
+        "berada",
+        "di",
+        "atas",
+        "sebuah",
+        "bukit",
+        "di",
+        "Jalan",
+        "A.E",
+        "."
+      ],
+      [
+        "Situmorang",
+        ",",
+        "Tangsi",
+        "-",
+        "Tarutung",
+        "."
+      ],
+      [
+        "Sejarah",
+        "SMA",
+        "Negeri",
+        "2",
+        "Tarutung",
+        "berdiri",
+        "pada",
+        "tanggal",
+        "11",
+        "Juli",
+        "2005",
+        ",",
+        "sesuai",
+        "dengan",
+        "SK",
+        "Bupati",
+        "Tapanuli",
+        "Utara",
+        "No",
+        "."
+      ],
+      [
+        "107",
+        "Tahun",
+        "2005",
+        "."
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Sekolah Menengah Atas Negeri 2 Tarutung",
+          "pos": [
+            0,
+            6
+          ],
+          "type": "ORG",
+          "global_pos": [
+            0,
+            6
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Kabupaten Tapanuli Utara",
+          "pos": [
+            12,
+            15
+          ],
+          "type": "GPE",
+          "global_pos": [
+            12,
+            15
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Badan Akreditasi Nasional Sekolah/Madrasah",
+          "pos": [
+            19,
+            23
+          ],
+          "type": "ORG",
+          "global_pos": [
+            19,
+            23
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "SMA Negeri 2 Tarutung",
+          "pos": [
+            0,
+            4
+          ],
+          "type": "ORG",
+          "global_pos": [
+            24,
+            28
+          ],
+          "sent_id": 1
+        },
+        {
+          "name": "SMA Negeri 2 Tarutung",
+          "pos": [
+            1,
+            5
+          ],
+          "type": "ORG",
+          "global_pos": [
+            44,
+            48
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "Jalan A.E",
+          "pos": [
+            10,
+            12
+          ],
+          "type": "GPE",
+          "global_pos": [
+            34,
+            36
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "11 Juli 2005",
+          "pos": [
+            8,
+            11
+          ],
+          "type": "DATE",
+          "global_pos": [
+            51,
+            54
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "SK Bupati Tapanuli Utara",
+          "pos": [
+            14,
+            18
+          ],
+          "type": "LAW",
+          "global_pos": [
+            57,
+            61
+          ],
+          "sent_id": 3
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P138",
+        "h": 1,
+        "t": 0,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P159",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P571",
+        "h": 0,
+        "t": 5,
+        "evidence": [
+          0,
+          3
+        ]
+      },
+      {
+        "r": "P144",
+        "h": 0,
+        "t": 6,
+        "evidence": [
+          0,
+          3
+        ]
+      }
+    ]
+  }
+]

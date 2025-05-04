@@ -1,0 +1,1590 @@
+[
+  {
+    "title": "Ong_Hok_Ham",
+    "sents": [
+      [
+        "Ong",
+        "Hok",
+        "Ham",
+        "(",
+        "1",
+        "Mei",
+        "1933",
+        "–",
+        "30",
+        "Agustus",
+        "2007",
+        ")",
+        "biasa",
+        "dipanggil",
+        "Hans",
+        "di",
+        "rumah",
+        "dan",
+        "sekolah",
+        "adalah",
+        "seorang",
+        "sejarawan",
+        "berlatar",
+        "belakang",
+        "Tionghoa-Indonesia",
+        "yang",
+        "dianggap",
+        "sebagai",
+        "salah",
+        "satu",
+        "sejarawan",
+        "terkemuka",
+        "di",
+        "bidang",
+        "sejarah",
+        "Indonesia",
+        "pada",
+        "masa",
+        "pendudukan",
+        "Belanda",
+        "."
+      ],
+      [
+        "Ia",
+        "terutama",
+        "fokus",
+        "pada",
+        "peristiwa",
+        "yang",
+        "terjadi",
+        "di",
+        "Jawa",
+        "selama",
+        "periode",
+        "tersebut",
+        ",",
+        "dan",
+        "ia",
+        "pun",
+        "menulis",
+        "sejumlah",
+        "karya",
+        "mengenai",
+        "hal",
+        "tersebut",
+        "."
+      ],
+      [
+        "Biografi",
+        "Berasal",
+        "dari",
+        "Surabaya",
+        ",",
+        "Jawa",
+        "Timur",
+        "yang",
+        "hingga",
+        "Indonesia",
+        "merdeka",
+        "pada",
+        "tahun",
+        "1945",
+        "masih",
+        "merupakan",
+        "bagian",
+        "dari",
+        "Hindia",
+        "Belanda",
+        ",",
+        "Ong",
+        "Hok",
+        "Ham",
+        "tinggal",
+        "di",
+        "kota",
+        "tersebut",
+        "hingga",
+        "berusia",
+        "25",
+        "tahun",
+        "."
+      ],
+      [
+        "Keluarga",
+        "Ong",
+        "berasal",
+        "dari",
+        "kelas",
+        "menengah",
+        "atas",
+        ",",
+        "tetapi",
+        "melalui",
+        "nenek",
+        "dari",
+        "ibunya",
+        ",",
+        "Han",
+        "Loen",
+        "Nio",
+        ",",
+        "Ong",
+        "juga",
+        "merupakan",
+        "keturunan",
+        "dari",
+        "keluarga",
+        "Han",
+        "dari",
+        "Lasem",
+        ",",
+        "bagian",
+        "dari",
+        "Cabang",
+        "Atas",
+        "di",
+        "Hindia",
+        "Belanda",
+        "."
+      ],
+      [
+        "Sehingga",
+        "Ong",
+        "juga",
+        "merupakan",
+        "keturunan",
+        "dari",
+        "Han",
+        "Bwee",
+        "Kong",
+        ",",
+        "Kapitan",
+        "Cina",
+        "(",
+        "1727",
+        "–",
+        "1778",
+        ")",
+        ",",
+        "dan",
+        "Han",
+        "Siong",
+        "Kong",
+        "(",
+        "1673",
+        "–",
+        "1743",
+        ")",
+        "."
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Ong Hok Ham",
+          "pos": [
+            0,
+            3
+          ],
+          "type": "PER",
+          "global_pos": [
+            0,
+            3
+          ],
+          "sent_id": 0
+        },
+        {
+          "name": "Ong Hok Ham",
+          "pos": [
+            21,
+            24
+          ],
+          "type": "PER",
+          "global_pos": [
+            85,
+            88
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "1 Mei 1933",
+          "pos": [
+            4,
+            7
+          ],
+          "type": "DATE",
+          "global_pos": [
+            4,
+            7
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "30 Agustus 2007",
+          "pos": [
+            8,
+            11
+          ],
+          "type": "DATE",
+          "global_pos": [
+            8,
+            11
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "sejarawan",
+          "pos": [
+            21,
+            22
+          ],
+          "type": "WORK",
+          "global_pos": [
+            21,
+            22
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Tionghoa-Indonesia",
+          "pos": [
+            24,
+            25
+          ],
+          "type": "NORP",
+          "global_pos": [
+            24,
+            25
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Indonesia",
+          "pos": [
+            35,
+            36
+          ],
+          "type": "GPE",
+          "global_pos": [
+            35,
+            36
+          ],
+          "sent_id": 0
+        },
+        {
+          "name": "Indonesia",
+          "pos": [
+            9,
+            10
+          ],
+          "type": "GPE",
+          "global_pos": [
+            73,
+            74
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Belanda",
+          "pos": [
+            39,
+            40
+          ],
+          "type": "GPE",
+          "global_pos": [
+            39,
+            40
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Jawa",
+          "pos": [
+            8,
+            9
+          ],
+          "type": "GPE",
+          "global_pos": [
+            49,
+            50
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Surabaya , Jawa Timur",
+          "pos": [
+            3,
+            7
+          ],
+          "type": "GPE",
+          "global_pos": [
+            67,
+            71
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Han Loen Nio",
+          "pos": [
+            14,
+            17
+          ],
+          "type": "PER",
+          "global_pos": [
+            111,
+            114
+          ],
+          "sent_id": 3
+        }
+      ],
+      [
+        {
+          "name": "Han Bwee Kong",
+          "pos": [
+            6,
+            9
+          ],
+          "type": "PER",
+          "global_pos": [
+            139,
+            142
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "Kapitan Cina",
+          "pos": [
+            10,
+            12
+          ],
+          "type": "WORK",
+          "global_pos": [
+            143,
+            145
+          ],
+          "sent_id": 4
+        }
+      ],
+      [
+        {
+          "name": "Han Siong Kong",
+          "pos": [
+            19,
+            22
+          ],
+          "type": "PER",
+          "global_pos": [
+            152,
+            155
+          ],
+          "sent_id": 4
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P571",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P576",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P27",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P19",
+        "h": 0,
+        "t": 8,
+        "evidence": [
+          0,
+          2
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 10,
+        "t": 11,
+        "evidence": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pulau_Kusu_(Halmahera_Selatan)",
+    "sents": [
+      [
+        "Pulau",
+        "Kusu",
+        "adalah",
+        "sebuah",
+        "pulau",
+        "kecil",
+        "yang",
+        "berada",
+        "di",
+        "daerah",
+        "laut",
+        "Halmahera",
+        "dan",
+        "terletak",
+        "secara",
+        "administratif",
+        "pada",
+        "wilayah",
+        "Kabupaten",
+        "Halmahera",
+        "Selatan",
+        ",",
+        "Maluku",
+        "Utara",
+        ",",
+        "Indonesia",
+        "."
+      ],
+      [
+        "Menurut",
+        "posisi",
+        "geografisnya",
+        ",",
+        "pulau",
+        "ini",
+        "mempunyai",
+        "titik",
+        "koordinat",
+        "0.454683°S",
+        "127.705979°E﻿",
+        "/",
+        "-0.454683",
+        ";",
+        "127.705979",
+        "di",
+        "barat",
+        "pulau",
+        "Halmahera",
+        "."
+      ],
+      [
+        "Referensi",
+        "Pranala",
+        "luar",
+        "Pulau",
+        "Kusu",
+        "Pulau",
+        "Kusu"
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Pulau Kusu",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "LOC",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Halmahera",
+          "pos": [
+            11,
+            12
+          ],
+          "type": "GPE",
+          "global_pos": [
+            11,
+            12
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Kabupaten Halmahera Selatan",
+          "pos": [
+            18,
+            21
+          ],
+          "type": "GPE",
+          "global_pos": [
+            18,
+            21
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Maluku Utara",
+          "pos": [
+            22,
+            24
+          ],
+          "type": "GPE",
+          "global_pos": [
+            22,
+            24
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Indonesia",
+          "pos": [
+            25,
+            26
+          ],
+          "type": "GPE",
+          "global_pos": [
+            25,
+            26
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "pulau Halmahera",
+          "pos": [
+            17,
+            19
+          ],
+          "type": "LOC",
+          "global_pos": [
+            44,
+            46
+          ],
+          "sent_id": 1
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 2,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 3,
+        "t": 4,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P159",
+        "h": 0,
+        "t": 5,
+        "evidence": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Onthophagus_arai",
+    "sents": [
+      [
+        "Onthophagus",
+        "arai",
+        "adalah",
+        "spesies",
+        "kumbang",
+        "yang",
+        "berasal",
+        "dari",
+        "genus",
+        "Onthophagus",
+        "dan",
+        "famili",
+        "Scarabaeidae",
+        "."
+      ],
+      [
+        "Kumbang",
+        "ini",
+        "juga",
+        "merupakan",
+        "bagian",
+        "dari",
+        "ordo",
+        "Coleoptera",
+        ",",
+        "kelas",
+        "Insecta",
+        ",",
+        "filum",
+        "Arthropoda",
+        ",",
+        "dan",
+        "kingdom",
+        "Animalia",
+        "."
+      ],
+      [
+        "Kumbang",
+        "ini",
+        "memiliki",
+        "antena",
+        "yang",
+        "terdiri",
+        "dari",
+        "plat",
+        "yang",
+        "disebut",
+        "lamela",
+        "."
+      ],
+      [
+        "Referensi",
+        "Bisby",
+        "F.A.",
+        ",",
+        "Roskov",
+        "Y.R.",
+        ",",
+        "Orrell",
+        "T.M.",
+        ",",
+        "Nicolson",
+        "D.",
+        ",",
+        "Paglinawan",
+        "L.E.",
+        ",",
+        "Bailly",
+        "N.",
+        ",",
+        "Kirk",
+        "P.M.",
+        ",",
+        "Bourgoin",
+        "T.",
+        ",",
+        "Baillargeon",
+        "G.",
+        ",",
+        "Ouvrard",
+        "D",
+        "."
+      ],
+      [
+        "(",
+        "red",
+        ".",
+        ")"
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Onthophagus arai",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "PER",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Onthophagus",
+          "pos": [
+            9,
+            10
+          ],
+          "type": "NORP",
+          "global_pos": [
+            9,
+            10
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Scarabaeidae",
+          "pos": [
+            12,
+            13
+          ],
+          "type": "NORP",
+          "global_pos": [
+            12,
+            13
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Coleoptera",
+          "pos": [
+            7,
+            8
+          ],
+          "type": "NORP",
+          "global_pos": [
+            21,
+            22
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Insecta",
+          "pos": [
+            10,
+            11
+          ],
+          "type": "NORP",
+          "global_pos": [
+            24,
+            25
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Arthropoda",
+          "pos": [
+            13,
+            14
+          ],
+          "type": "NORP",
+          "global_pos": [
+            27,
+            28
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Animalia",
+          "pos": [
+            17,
+            18
+          ],
+          "type": "NORP",
+          "global_pos": [
+            31,
+            32
+          ],
+          "sent_id": 1
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 5,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P53",
+        "h": 0,
+        "t": 6,
+        "evidence": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Maja_Komorowska",
+    "sents": [
+      [
+        "Maja",
+        "Komorowska-Tyszkiewicz",
+        "(",
+        "lahir",
+        "23",
+        "Desember",
+        "1937",
+        ")",
+        "adalah",
+        "seorang",
+        "pemeran",
+        "film",
+        "Polandia",
+        "."
+      ],
+      [
+        "Ia",
+        "tampil",
+        "dalam",
+        "lebih",
+        "dari",
+        "35",
+        "film",
+        "sejak",
+        "1970",
+        "."
+      ],
+      [
+        "Filmografi",
+        "pilihan",
+        "Family",
+        "Life",
+        "(",
+        "1971",
+        ")",
+        "A",
+        "Woman",
+        "'s",
+        "Decision",
+        "(",
+        "1975",
+        ")",
+        "Budapest",
+        "Tales",
+        "(",
+        "1976",
+        ")",
+        "Spiral",
+        "(",
+        "1978",
+        ")",
+        "The",
+        "Maids",
+        "of",
+        "Wilko",
+        "(",
+        "1979",
+        ")",
+        "A",
+        "Year",
+        "of",
+        "the",
+        "Quiet",
+        "Sun",
+        "(",
+        "1984",
+        ")",
+        "Decalogue",
+        "I",
+        "(",
+        "1988",
+        ")",
+        "Inventory",
+        "(",
+        "1989",
+        ")",
+        "A",
+        "Tale",
+        "of",
+        "Adam",
+        "Mickiewicz",
+        "'s",
+        "'Forefathers",
+        "'",
+        "Eve",
+        "'",
+        "(",
+        "1989",
+        ")",
+        "At",
+        "Full",
+        "Gallop",
+        "(",
+        "1996",
+        ")",
+        "Katyń",
+        "(",
+        "2007",
+        ")",
+        "Pranala",
+        "luar",
+        "Maja",
+        "Komorowska",
+        "di",
+        "IMDb",
+        "(",
+        "dalam",
+        "bahasa",
+        "Inggris",
+        ")"
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Maja Komorowska-Tyszkiewicz",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "PER",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "23 Desember 1937",
+          "pos": [
+            4,
+            7
+          ],
+          "type": "DATE",
+          "global_pos": [
+            4,
+            7
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "pemeran film",
+          "pos": [
+            10,
+            12
+          ],
+          "type": "WORK",
+          "global_pos": [
+            10,
+            12
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Polandia",
+          "pos": [
+            12,
+            13
+          ],
+          "type": "NORP",
+          "global_pos": [
+            12,
+            13
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "1970",
+          "pos": [
+            8,
+            9
+          ],
+          "type": "DATE",
+          "global_pos": [
+            22,
+            23
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Family Life",
+          "pos": [
+            2,
+            4
+          ],
+          "type": "WORK",
+          "global_pos": [
+            26,
+            28
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "1971",
+          "pos": [
+            5,
+            6
+          ],
+          "type": "DATE",
+          "global_pos": [
+            29,
+            30
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "A Woman 's Decision",
+          "pos": [
+            7,
+            11
+          ],
+          "type": "WORK",
+          "global_pos": [
+            31,
+            35
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "1975",
+          "pos": [
+            12,
+            13
+          ],
+          "type": "DATE",
+          "global_pos": [
+            36,
+            37
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "Budapest Tales",
+          "pos": [
+            14,
+            16
+          ],
+          "type": "WORK",
+          "global_pos": [
+            38,
+            40
+          ],
+          "sent_id": 2
+        }
+      ],
+      [
+        {
+          "name": "1976",
+          "pos": [
+            17,
+            18
+          ],
+          "type": "DATE",
+          "global_pos": [
+            41,
+            42
+          ],
+          "sent_id": 2
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P571",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P27",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P527",
+        "h": 0,
+        "t": 5,
+        "evidence": [
+          0,
+          2
+        ]
+      },
+      {
+        "r": "P527",
+        "h": 0,
+        "t": 7,
+        "evidence": [
+          0,
+          2
+        ]
+      },
+      {
+        "r": "P527",
+        "h": 0,
+        "t": 9,
+        "evidence": [
+          0,
+          2
+        ]
+      },
+      {
+        "r": "P571",
+        "h": 5,
+        "t": 6,
+        "evidence": [
+          2
+        ]
+      },
+      {
+        "r": "P571",
+        "h": 7,
+        "t": 8,
+        "evidence": [
+          2
+        ]
+      },
+      {
+        "r": "P571",
+        "h": 9,
+        "t": 10,
+        "evidence": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fujishima_Takeji",
+    "sents": [
+      [
+        "Fujishima",
+        "Takeji",
+        "(",
+        "藤島",
+        "武二code",
+        ":",
+        "ja",
+        "is",
+        "deprecated",
+        ",",
+        "15",
+        "Oktober",
+        "1867",
+        "–",
+        "19",
+        "Maret",
+        "1943",
+        ")",
+        "adalah",
+        "seorang",
+        "pelukis",
+        "Jepang",
+        ",",
+        "yang",
+        "dikenal",
+        "karena",
+        "karyanya",
+        "dalam",
+        "mengembangkan",
+        "Romantisisme",
+        "dan",
+        "impresionisme",
+        "pada",
+        "gerakan",
+        "seni",
+        "yōga",
+        "(",
+        "gaya",
+        "Barat",
+        ")",
+        "dalam",
+        "lukisan",
+        "Jepang",
+        "pada",
+        "akhir",
+        "abad",
+        "ke-19",
+        "dan",
+        "awal",
+        "abad",
+        "ke-20",
+        "."
+      ],
+      [
+        "Biografi",
+        "Fujishima",
+        "lahir",
+        "dari",
+        "keluarga",
+        "kelas",
+        "eks-samurai",
+        "di",
+        "Kagoshima",
+        ",",
+        "Domain",
+        "Satsuma",
+        "di",
+        "selatan",
+        "Kyūshū",
+        ",",
+        "Jepang",
+        "Fujishima",
+        "wafat",
+        "pada",
+        "1943",
+        ";",
+        "makamnya",
+        "berada",
+        "di",
+        "Pemakaman",
+        "Aoyama",
+        ",",
+        "di",
+        "Tokyo",
+        "."
+      ],
+      [
+        "Referensi",
+        "Keene",
+        ",",
+        "Donald",
+        "."
+      ],
+      [
+        "Dawn",
+        "to",
+        "the",
+        "West",
+        "."
+      ],
+      [
+        "Columbia",
+        "University",
+        "Press",
+        ";",
+        "(",
+        "1998",
+        ")",
+        "."
+      ]
+    ],
+    "vertexSet": [
+      [
+        {
+          "name": "Fujishima Takeji",
+          "pos": [
+            0,
+            2
+          ],
+          "type": "PER",
+          "global_pos": [
+            0,
+            2
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "15 Oktober 1867",
+          "pos": [
+            10,
+            13
+          ],
+          "type": "DATE",
+          "global_pos": [
+            10,
+            13
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "19 Maret 1943",
+          "pos": [
+            14,
+            17
+          ],
+          "type": "DATE",
+          "global_pos": [
+            14,
+            17
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "pelukis",
+          "pos": [
+            20,
+            21
+          ],
+          "type": "WORK",
+          "global_pos": [
+            20,
+            21
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Jepang",
+          "pos": [
+            21,
+            22
+          ],
+          "type": "NORP",
+          "global_pos": [
+            21,
+            22
+          ],
+          "sent_id": 0
+        }
+      ],
+      [
+        {
+          "name": "Kagoshima",
+          "pos": [
+            8,
+            9
+          ],
+          "type": "GPE",
+          "global_pos": [
+            60,
+            61
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Domain Satsuma",
+          "pos": [
+            10,
+            12
+          ],
+          "type": "GPE",
+          "global_pos": [
+            62,
+            64
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Pemakaman Aoyama",
+          "pos": [
+            25,
+            27
+          ],
+          "type": "FAC",
+          "global_pos": [
+            77,
+            79
+          ],
+          "sent_id": 1
+        }
+      ],
+      [
+        {
+          "name": "Tokyo",
+          "pos": [
+            29,
+            30
+          ],
+          "type": "GPE",
+          "global_pos": [
+            81,
+            82
+          ],
+          "sent_id": 1
+        }
+      ]
+    ],
+    "labels": [
+      {
+        "r": "P571",
+        "h": 0,
+        "t": 1,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P576",
+        "h": 0,
+        "t": 2,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P106",
+        "h": 0,
+        "t": 3,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P27",
+        "h": 0,
+        "t": 4,
+        "evidence": [
+          0
+        ]
+      },
+      {
+        "r": "P19",
+        "h": 0,
+        "t": 5,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 5,
+        "t": 6,
+        "evidence": [
+          1
+        ]
+      },
+      {
+        "r": "P20",
+        "h": 0,
+        "t": 7,
+        "evidence": [
+          0,
+          1
+        ]
+      },
+      {
+        "r": "P131",
+        "h": 7,
+        "t": 8,
+        "evidence": [
+          1
+        ]
+      }
+    ]
+  }
+]

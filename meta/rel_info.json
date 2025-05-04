@@ -1,0 +1,23 @@
+{
+  "NA": "no_relation",
+  "P102": "member of political party",
+  "P106": "occupation",
+  "P131": "located in the administrative territorial entity",
+  "P138": "named after",
+  "P144": "based on",
+  "P159": "headquarters location",
+  "P17": "country",
+  "P19": "place of birth",
+  "P20": "place of death",
+  "P2079": "fabrication method",
+  "P27": "country of citizenship",
+  "P50": "author",
+  "P527": "has part",
+  "P53": "member of",
+  "P54": "member of sports team",
+  "P571": "inception",
+  "P576": "dissolved, abolished or demolished date",
+  "P69": "educated at",
+  "P740": "location of formation",
+  "P941": "inspired by"
+}
